@@ -1,6 +1,6 @@
 {
 	"name": "n8n-nodes-toupas",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "Put websites and apps with saved data live at a link anyone can open, from n8n workflows.",
 	"license": "MIT",
 	"homepage": "https://toupas.com",
@@ -52,5 +52,8 @@
 	},
 	"peerDependencies": {
 		"n8n-workflow": "*"
+	},
+	"publishConfig": {
+		"access": "public"
 	}
 }
