@@ -1,0 +1,18 @@
+{
+	"node": "n8n-nodes-toupas.toupas",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Development", "Marketing & Content"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://github.com/shmshrivastava/n8n-nodes-toupas#credentials"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://github.com/shmshrivastava/n8n-nodes-toupas#readme"
+			}
+		]
+	}
+}
